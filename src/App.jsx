@@ -23,7 +23,7 @@ function App() {
   return (
     <>
       <div className='header'>
-        <img className='img__header' src="./public/img/2.jpg" alt="img" />
+        <img className='img__header' src="./public/img/5.jpg" alt="img" />
       </div>
 
       <div className='app'>      

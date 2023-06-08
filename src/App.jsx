@@ -23,7 +23,7 @@ function App() {
   return (
     <>
       <div className='header'>
-        <img className='img__header' src="./public/img/5.jpg" alt="img" />
+        <img className='img__header' src="https://www.alertageekchile.cl/wp-content/uploads/2019/02/RICK_MORTY_BILLBOARD_72.jpg" alt="img" />
       </div>
 
       <div className='app'>      
